@@ -13,7 +13,8 @@ SSH log triage CLI. Detects brute-force attackers, enriches IPs via VirusTotal a
 Scores passwords on length, complexity, and special characters, with live suggestions.
 `Python`
 
-👉 **[Read them all at aarushi-anand.github.io](https://aarushi-anand.github.io)**
+## Writing
+Walkthroughs with every command explained. [aarushi-anand.github.io](https://aarushi-anand.github.io)
 
 ## Background
 
